@@ -2,3 +2,5 @@ base58==2.0.1
 pandas==1.2.2
 numpy==1.19.2
 streamlit==0.69.2
+xlrd==2.0.1
+XlsxWriter==1.3.7
